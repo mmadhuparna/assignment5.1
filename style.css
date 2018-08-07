@@ -1,0 +1,20 @@
+/* defining gradient background*/
+body{
+    background:linear-gradient(yellow,lightyellow);
+    
+  
+}
+/*defining styles for header*/
+header{
+    width: 140px;
+    height: 70px;
+border: 1px ;
+background-color: blue;
+padding: 20px;
+border-radius: 50%;
+color: white;
+text-align: center;
+
+font-size: 14px;
+
+}
